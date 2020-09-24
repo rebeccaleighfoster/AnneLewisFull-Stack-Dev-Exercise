@@ -7,3 +7,11 @@ This program uses React to read a JSON file of "user cards". It extracts the inf
 ## Installation
 
 To use this program, simply clone the repo and load the HTML file into your client.
+
+## Experiences
+
+I have less than one year of experience with React.js
+
+## Live Link
+
+A live version of the program is [here](https://rebeccaleighfoster.github.io/AnneLewisFull-Stack-Dev-Exercise/)
